@@ -1,11 +1,11 @@
-# LESSON 1:
+# LESSON #1. Базовые операции в языке Python
 
 # print()
 print("\nprint()\n--------------------")
 print("\"", 1, 9, 8, 4, "\"", sep="", end="")
 print(" by George Orwell")
 
-#Math Operations
+# Math Operations
 print("\nMath Operations\n--------------------")
 print("1 + 6 =", 1 + 6)
 print("2 - 5 =", 2 - 5)
